@@ -1,0 +1,2 @@
+bike1 1 0 0 Ithaca 1 0
+bike2 1 0 5 NiagaraFalls 1 0

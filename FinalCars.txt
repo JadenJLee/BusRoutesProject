@@ -1,0 +1,3 @@
+car1 1 0 0 Ithaca 5 0
+car2 1 0 5 NiagaraFalls 5 0
+car3 1 5 5 Toronto 5 0

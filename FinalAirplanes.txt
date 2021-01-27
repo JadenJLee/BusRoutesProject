@@ -1,0 +1,2 @@
+airplane1 15 20 20 Ithaca 5 0 5
+airplane2 15 20 20 NewYorkCity 5 0 7
